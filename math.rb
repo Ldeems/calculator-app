@@ -6,6 +6,8 @@ def math(function,num1,num2)
 			num1 + num2
 		
 		elsif function == "-"
+			if num2 == 0
+				redirect 
 			num1 - num2
 		elsif function == "/"
 			num1 / num2
