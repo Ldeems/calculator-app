@@ -1,5 +1,5 @@
 .color {
-	color: blue;
+	color: green;
 	background-image: url(/image/welp.jpg);
 	background-position: center;
 	background-size: 120px 70px;
@@ -35,4 +35,8 @@ body{
 footer{
 	text-align: center;
 }
+
+
+
+
 
