@@ -4,10 +4,7 @@
 def math(function,num1,num2)
 		if function == "add"
 			num1 + num2
-		
-		elsif function == "-"
-			if num2 == 0
-				redirect 
+		elsif function == "-" 
 			num1 - num2
 		elsif function == "/"
 			num1 / num2
